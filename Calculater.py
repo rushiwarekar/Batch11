@@ -6,7 +6,7 @@ def Addition(a,b):
 print("Addition of 2 num:",Addition(a,b))
 
 # subtraction function added in rushi_dev branch on git
-
-def Sub(a,b):
+# new commint addded and sub() ==> to Subtrction()
+def Subtrction(a,b):
     return a - b
-print("Subtrction of 2 num:",Sub(a, b))
+print("Subtrction of 2 num:",Subtrction(a, b))
